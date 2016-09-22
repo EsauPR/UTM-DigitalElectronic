@@ -1,0 +1,1 @@
+-w -s "e:\My_Designs\perifericos\library.cfg"  -j "e:\My_Designs\perifericos\prueba_rat_PS2\projlib.cfg"  -d "e:\My_Designs\perifericos\prueba_rat_PS2\compile\"  -work prueba_rat_PS2 -dbg -e 100 "e:\My_Designs\perifericos\prueba_rat_PS2\src\raton.vhd" 

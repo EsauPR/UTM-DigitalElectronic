@@ -1,0 +1,12 @@
+90
+~E 1 "./src/driver_7seg.vhd" 31 driver_7seg
+~A 1 "./src/driver_7seg.vhd" 42 driver
+~E 1 "./src/div_bus.vhd" 5 div_bus
+~E 1 "./src/deco.vhd" 7 deco
+~A 1 "./src/deco.vhd" 14 deco
+~E 1 "./src/div_frec.vhd" 6 div_frec
+~A 1 "./src/div_frec.vhd" 18 div_frec
+~E 1 "./src/raton.vhd" 6 mouse
+~A 1 "./src/raton.vhd" 19 behavior
+~E 1 "./compile/pru_mouse.vhd" 25 pru_mouse
+~A 1 "./compile/pru_mouse.vhd" 40 pru_mouse

@@ -1,0 +1,1 @@
+-w -s "E:\My_Designs\perifericos\library.cfg"  -j "E:\My_Designs\perifericos\prueba_tec_PS2\projlib.cfg"  -d "E:\My_Designs\perifericos\prueba_tec_PS2\compile\"  -work prueba_tec_PS2 -dbg -e 100 "E:\My_Designs\perifericos\prueba_tec_PS2\compile\teclado.vhd" 

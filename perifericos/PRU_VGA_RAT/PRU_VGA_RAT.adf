@@ -1,0 +1,54 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=PRU_VGA_RAT
+
+[Library]
+PRU_VGA_RAT=.\PRU_VGA_RAT.lib
+
+[$LibMap$]
+PRU_VGA_RAT=.
+Active_lib=
+
+[settings]
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=ONLY_IMPL
+HESPrepare=0
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/div_frec.vhd=-1
+/vga.vhd=-1
+/gen_img.vhd=-1
+/RATON.vhd=-1
+/Pru_VGA2.bde=-1
+
+[Files.Data]
+.\src\div_frec.vhd=VHDL Source Code
+.\src\vga.vhd=VHDL Source Code
+.\src\gen_img.vhd=VHDL Source Code
+.\src\RATON.vhd=VHDL Source Code
+.\src\Pru_VGA2.bde=Block Diagram
+.\compile\Pru_VGA2.vhd=VHDL Source Code
+
+[file_out:/Pru_VGA2.bde]
+/\compile\Pru_VGA2.vhd=-1
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation= 
+ShowHide=ShowTopLevel
+Selected=
+[Folders]
+Name3=Makefiles
+Directory3=e:\My_Designs\perifericos\PRU_VGA_RAT\
+Extension3=mak

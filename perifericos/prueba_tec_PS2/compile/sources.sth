@@ -1,0 +1,12 @@
+[Files List]
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\STD/src/standard.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\IEEE/src/stdlogic.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\IEEE/src/arith.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\IEEE/src/unsigned.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\IEEE/src/numstd.vhd=S
+e:\My_Designs\perifericos\prueba_tec_PS2/src/det_flanco.vhd=S
+e:\My_Designs\perifericos\prueba_tec_PS2/src/divisor.vhd=S
+e:\My_Designs\perifericos\prueba_tec_PS2/src/show_cr.vhd=S
+e:\My_Designs\perifericos\prueba_tec_PS2/src/deco.vhd=S
+e:\My_Designs\perifericos\prueba_tec_PS2/compile/teclado.vhd=S
+e:\My_Designs\perifericos\prueba_tec_PS2/compile/pru_tec_ps2.vhd=S

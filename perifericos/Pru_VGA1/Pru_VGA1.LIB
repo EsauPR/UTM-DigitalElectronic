@@ -1,0 +1,54 @@
+[div_frec]
+A/div_frec=A/DIV_FREC 21|./src/DIV_FREC.vhd|17|1*4561
+B/div_frec=3*6311
+H/div_frec=0*8538
+R=./src/DIV_FREC.vhd|6
+S/div_frec=S/DIV_FREC 40|0|2*0
+V=0*9604
+
+[gen_img]
+A/gen_img=21|./src/gen_img.vhd|18|1*28555
+B/gen_img=3*7758
+H/gen_img=0*50664
+R=./src/gen_img.vhd|7
+S/gen_img=40|0|2*6803
+V=0*26934
+
+[pru_vga1]
+A/pru_vga1=A/PRU_VGA1 24|.\src\PRU_VGA1.bde|10000|1*22257
+H/pru_vga1=0*41386
+R=./compile/PRU_VGA1.vhd|25
+V=0*30214
+
+[vga]
+A/vga=21|./src/vga.vhd|27|1*0
+B/vga=3*0
+H/vga=0*4198
+R=./src/vga.vhd|9
+S/vga=40|0|2*1342
+V=0*1715
+
+[~A]
+./compile/PRU_VGA1.vhd~PRU_VGA1=60|0*29059*29399
+./compile/PRU_VGA1.vhd~PRU_VGA1PRU_VGA1=60|0*49173*50585
+./src/DIV_FREC.vhd~DIV_FREC=60|0*8175*8471
+./src/DIV_FREC.vhd~DIV_FRECDIV_FREC=60|0*8756*9076
+./src/gen_img.vhd~gen_img=60|0*25033*25430
+./src/gen_img.vhd~gen_imggen_img=60|0*50753*51064
+./src/vga.vhd~vga=60|0*0*504
+./src/vga.vhd~vgavga=60|0*6790*8115
+ModifyID=90
+Version=73
+
+[~MFT]
+0=91|0Pru_VGA1.mgf|51064|25298
+1=11|1Pru_VGA1.mgf|28555|5531
+2=4|2Pru_VGA1.mgf|6803|2080
+3=10|3Pru_VGA1.mgf|7758|319
+
+[~U]
+div_frec=DIV_FREC 11|0*9151|0*9315|3
+gen_img=11|0*25967|0*26227|3
+pru_vga1=11|0*29470|0*29718
+vga=11|0*561|0*898|3
+

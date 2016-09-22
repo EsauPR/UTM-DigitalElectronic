@@ -1,0 +1,14 @@
+acom $DSN/src/TOP_C.bde
+# Compile...
+# File: .\TOP_C.vhd
+# Compile Entity "TOP_C"
+# Entity `TOP_C' has been skipped - no difference detected.
+# Compile Architecture "TOP_C" of Entity "TOP_C"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/TOP_C.bde
+# Compile...
+# File: .\TOP_C.vhd
+# Compile Entity "TOP_C"
+# Entity `TOP_C' has been skipped - no difference detected.
+# Compile Architecture "TOP_C" of Entity "TOP_C"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

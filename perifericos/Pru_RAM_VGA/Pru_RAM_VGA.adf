@@ -1,0 +1,66 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Pru_RAM_VGA
+
+[Library]
+Pru_RAM_VGA=.\Pru_RAM_VGA.lib
+
+[$LibMap$]
+Pru_RAM_VGA=.
+Active_lib=
+
+[settings]
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=div_frec|div_frec|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Folders]
+Name3=Makefiles
+Directory3=e:\My_Designs\perifericos\Pru_RAM_VGA\
+Extension3=mak
+
+
+
+[Files]
+/DIV_FREC.vhd=-1
+/vga.vhd=-1
+/control_Z.vhd=-1
+/Mux_Dir.vhd=-1
+/man_mem_ext.asf=-1
+/Top_RAM_VGA.bde=-1
+/contador.vhd=-1
+/sel_Color.vhd=-1
+
+[Files.Data]
+.\src\DIV_FREC.vhd=VHDL Source Code
+.\src\vga.vhd=VHDL Source Code
+.\src\control_Z.vhd=VHDL Source Code
+.\src\Mux_Dir.vhd=VHDL Source Code
+.\src\man_mem_ext.asf=State Diagram
+.\src\Top_RAM_VGA.bde=Block Diagram
+.\src\contador.vhd=VHDL Source Code
+.\src\sel_Color.vhd=VHDL Source Code
+.\compile\man_mem_ext.vhd=VHDL Source Code
+.\compile\Top_RAM_VGA.vhd=VHDL Source Code
+
+[file_out:/man_mem_ext.asf]
+/\compile\man_mem_ext.vhd=-1
+[file_out:/Top_RAM_VGA.bde]
+/\compile\Top_RAM_VGA.vhd=-1

@@ -1,0 +1,9 @@
+.\src\vga.vhd
+.\src\cnt_0_5.vhd
+.\src\cnt_0_9.vhd
+.\src\df_c.vhd
+.\src\DF_VGA.vhd
+.\src\div_frec.vhd
+.\src\filtro.vhd
+.\src\gen_img.vhd
+.\src\TOP_C.bde

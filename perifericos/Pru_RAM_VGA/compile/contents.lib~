@@ -1,0 +1,17 @@
+204
+~E 1 "./compile/man_mem_ext.vhd" 26 man_mem_ext
+~A 1 "./compile/man_mem_ext.vhd" 38 man_mem_ext_arch
+~E 1 "./src/control_Z.vhd" 30 control_z
+~A 1 "./src/control_Z.vhd" 41 control_z
+~E 1 "./src/contador.vhd" 21 contador
+~A 1 "./src/contador.vhd" 30 contador
+~E 1 "./src/DIV_FREC.vhd" 6 div_frec
+~A 1 "./src/DIV_FREC.vhd" 17 div_frec
+~E 1 "./src/sel_Color.vhd" 30 sel_color
+~A 1 "./src/sel_Color.vhd" 39 sel_color
+~E 1 "./src/Mux_Dir.vhd" 31 mux_dir
+~A 1 "./src/Mux_Dir.vhd" 43 mux_dir
+~E 1 "./compile/Top_RAM_VGA.vhd" 25 top_img_mem_ext
+~A 1 "./compile/Top_RAM_VGA.vhd" 45 top_img_mem_ext
+~E 1 "./src/vga.vhd" 9 vga
+~A 1 "./src/vga.vhd" 26 vga

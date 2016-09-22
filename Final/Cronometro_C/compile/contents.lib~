@@ -1,0 +1,19 @@
+286
+~E 1 "./src/DF_VGA.vhd" 31 df_vga
+~A 1 "./src/DF_VGA.vhd" 41 df_vga
+~E 1 "./src/cnt_0_9.vhd" 30 cnt_0_9
+~A 1 "./src/cnt_0_9.vhd" 42 cnt_0_9
+~E 1 "./src/cnt_0_5.vhd" 30 cnt_0_5
+~A 1 "./src/cnt_0_5.vhd" 42 cnt_0_5
+~E 1 "./src/df_c.vhd" 30 df_c
+~A 1 "./src/df_c.vhd" 40 df_c
+~E 1 "./src/filtro.vhd" 30 filtro
+~A 1 "./src/filtro.vhd" 42 filtro
+~E 1 "./src/div_frec.vhd" 30 div_frec
+~A 1 "./src/div_frec.vhd" 40 div_frec
+~E 1 "./compile/TOP_C.vhd" 25 top_c
+~A 1 "./compile/TOP_C.vhd" 38 top_c
+~E 1 "./src/gen_img.vhd" 7 gen_img
+~A 1 "./src/gen_img.vhd" 24 gen_img
+~E 1 "./src/vga.vhd" 9 vga
+~A 1 "./src/vga.vhd" 27 vga

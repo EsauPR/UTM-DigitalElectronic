@@ -1,0 +1,8 @@
+.\src\DIV_FREC.vhd
+.\src\vga.vhd
+.\src\control_Z.vhd
+.\src\Mux_Dir.vhd
+.\src\man_mem_ext.asf
+.\src\Top_RAM_VGA.bde
+.\src\contador.vhd
+.\src\sel_Color.vhd

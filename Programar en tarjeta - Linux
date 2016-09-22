@@ -1,0 +1,7 @@
+djtgcfg prog -d Nexys2 -i 0 -f top_estacionamiento.bit
+
+Software
+	
+	WinCupl
+	Active HDL 6.2
+	ISE 12.1 Xilinx

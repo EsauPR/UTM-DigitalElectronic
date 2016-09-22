@@ -1,0 +1,1 @@
+-w -s "e:\My_Designs\perifericos\library.cfg"  -j "e:\My_Designs\perifericos\PRU_VGA_RAT\projlib.cfg"  -d "e:\My_Designs\perifericos\PRU_VGA_RAT\compile\"  -work PRU_VGA_RAT -dbg -e 100 "e:\My_Designs\perifericos\PRU_VGA_RAT\src\gen_img.vhd" 

@@ -1,0 +1,17 @@
+elbread.dll ver. 1.0.5.325 Thu Jan 22 10:31:52 2015
+
+
+--------------------------------------
+Entity    | Architecture | Library  
+--------------------------------------
+div_frec  | div_frec     | Pru_RAM_VGA
+--------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

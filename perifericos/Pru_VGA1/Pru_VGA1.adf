@@ -1,0 +1,51 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Pru_VGA1
+
+[Library]
+Pru_VGA1=.\Pru_VGA1.lib
+
+[$LibMap$]
+Pru_VGA1=.
+Active_lib=
+
+[settings]
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/vga.vhd=-1
+/DIV_FREC.vhd=-1
+/PRU_VGA1.bde=-1
+/gen_img.vhd=-1
+
+[Files.Data]
+.\src\vga.vhd=VHDL Source Code
+.\src\DIV_FREC.vhd=VHDL Source Code
+.\src\PRU_VGA1.bde=Block Diagram
+.\src\gen_img.vhd=VHDL Source Code
+.\compile\PRU_VGA1.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation= 
+ShowHide=ShowTopLevel
+Selected=
+[Folders]
+Name3=Makefiles
+Directory3=e:\My_Designs\perifericos\Pru_VGA1\
+Extension3=mak
+[file_out:/PRU_VGA1.bde]
+/\compile\PRU_VGA1.vhd=-1

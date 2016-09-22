@@ -1,0 +1,4 @@
+.\src\vga.vhd
+.\src\DIV_FREC.vhd
+.\src\PRU_VGA1.bde
+.\src\gen_img.vhd

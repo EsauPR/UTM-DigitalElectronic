@@ -1,0 +1,5 @@
+MESSAGE "File: .\teclado.vhd" 
+MESSAGE "Compile Entity "teclado"" 
+MESSAGE "Entity `teclado' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "teclado_arch" of Entity "teclado"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

@@ -1,0 +1,220 @@
+SCHM0102
+HEADER
+{
+  FREEID 21
+  VARIABLES
+  {
+    #ARCHITECTURE="Pru_VGA2"
+    #ENTITY="Pru_VGA2"
+    #LANGUAGE="VHDL"
+    AUTHOR="Unknown"
+    COMPANY="Unknown"
+    CREATIONDATE="1/27/2011"
+    TITLE="Pru_VGA2"
+  }
+}
+PAGE ""
+{
+  PAGEHEADER 
+  {
+    PAGESIZE (2200,1700)
+  }
+  BODY
+  {
+    INSTANCE 1,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="Bidirectional"
+        #LIBRARY="#terminals"
+        #REFERENCE="ps2C"
+        #SYMBOL="Bidirectional"
+      }
+      COORD (1780,460)
+    }
+    TEXT 10,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (385,504,385,504)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      ALIGN 2
+      PARENT 9
+    }
+    INSTANCE 11,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="Input"
+        #LIBRARY="#terminals"
+        #REFERENCE="rst"
+        #SYMBOL="Input"
+      }
+      COORD (440,580)
+    }
+    TEXT 12,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (385,564,385,564)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      ALIGN 2
+      PARENT 11
+    }
+    INSTANCE 13,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="Output"
+        #LIBRARY="#terminals"
+        #REFERENCE="HS"
+        #SYMBOL="Output"
+      }
+      COORD (1780,640)
+    }
+    TEXT 14,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (1835,624,1835,624)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      PARENT 13
+    }
+    INSTANCE 15,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="Output"
+        #LIBRARY="#terminals"
+        #REFERENCE="VS"
+        #SYMBOL="Output"
+      }
+      COORD (1780,700)
+    }
+    TEXT 16,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (1835,684,1835,684)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      PARENT 15
+    }
+    INSTANCE 17,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="Output"
+        #LIBRARY="#terminals"
+        #REFERENCE="lbot"
+        #SYMBOL="Output"
+      }
+      COORD (1780,760)
+    }
+    TEXT 18,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (1835,744,1835,744)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      PARENT 17
+    }
+    INSTANCE 19,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="Output"
+        #LIBRARY="#terminals"
+        #REFERENCE="rbot"
+        #SYMBOL="Output"
+      }
+      COORD (1780,820)
+    }
+    TEXT 2,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (1835,444,1835,444)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      PARENT 1
+    }
+    TEXT 20,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (1835,804,1835,804)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      PARENT 19
+    }
+    INSTANCE 3,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="Bidirectional"
+        #LIBRARY="#terminals"
+        #REFERENCE="ps2D"
+        #SYMBOL="Bidirectional"
+      }
+      COORD (1780,520)
+    }
+    TEXT 4,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (1835,504,1835,504)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      PARENT 3
+    }
+    INSTANCE 5,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="BusInput"
+        #DOWNTO="1"
+        #LIBRARY="#terminals"
+        #REFERENCE="color(7:0)"
+        #SYMBOL="BusInput"
+      }
+      COORD (440,460)
+    }
+    TEXT 6,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (385,444,385,444)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      ALIGN 2
+      PARENT 5
+    }
+    INSTANCE 7,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="BusOutput"
+        #DOWNTO="1"
+        #LIBRARY="#terminals"
+        #REFERENCE="RGB_SAL(7:0)"
+        #SYMBOL="BusOutput"
+      }
+      COORD (1780,580)
+    }
+    TEXT 8,0,0
+    {
+      TEXT "$#REFERENCE"
+      RECT (1835,564,1835,564)
+      MARGINS (1,1)
+      COLOR (0,0,192)
+      PARENT 7
+    }
+    INSTANCE 9,0,0
+    {
+      VARIABLES
+      {
+        #COMPONENT="Input"
+        #LIBRARY="#terminals"
+        #REFERENCE="clk"
+        #SYMBOL="Input"
+      }
+      COORD (440,520)
+    }
+  }
+}

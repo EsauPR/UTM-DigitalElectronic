@@ -1,0 +1,8 @@
+[OPENDOC|Aldec.BDE.7|.\Pru_RAM_VGA\src\Top_RAM_VGA.bde|]
+TemplateId=0
+AddInfo=Pru_RAM_VGA
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Pru_RAM_VGA\src\Mux_Dir.vhd|]
+TemplateId=0
+[OPENDOC|Aldec.FSMPlugIn.FSMPlugIn.7|.\Pru_RAM_VGA\src\man_mem_ext.asf|]
+TemplateId=0
+ActiveDocument=1

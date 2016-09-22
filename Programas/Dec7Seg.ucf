@@ -1,0 +1,18 @@
+NET "BCD<0>" LOC = "G18";
+NET "BCD<1>" LOC = "H18";
+NET "BCD<2>" LOC = "K18";
+NET "BCD<3>" LOC = "K17";
+
+NET "habs<0>" LOC = "F17";
+NET "habs<1>" LOC = "H17";
+NET "habs<2>" LOC = "C18";
+NET "habs<3>" LOC = "F15";
+
+NET "Sal<0>" LOC = "H14";
+NET "Sal<1>" LOC = "J17";
+NET "Sal<2>" LOC = "G14";
+NET "Sal<3>" LOC = "D16";
+NET "Sal<4>" LOC = "D17";
+NET "Sal<5>" LOC = "F18";
+NET "Sal<6>" LOC = "L18";
+NET "Sal<7>" LOC = "C17";

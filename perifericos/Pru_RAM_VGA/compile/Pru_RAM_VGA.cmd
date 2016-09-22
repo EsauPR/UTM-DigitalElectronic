@@ -1,0 +1,1 @@
+-w -s "e:\My_Designs\perifericos\library.cfg"  -j "e:\My_Designs\perifericos\Pru_RAM_VGA\projlib.cfg"  -d "e:\My_Designs\perifericos\Pru_RAM_VGA\compile\"  -work Pru_RAM_VGA -dbg -e 100 "e:\My_Designs\perifericos\Pru_RAM_VGA\compile\Top_RAM_VGA.vhd" 

@@ -1,0 +1,78 @@
+[deco]
+A/deco=A/Deco 21|./src/deco.vhd|14|1*0
+B/deco=3*0
+H/deco=0*347
+R=./src/deco.vhd|7
+S/deco=S/Deco 40|0|2*3140
+V=0*1658
+
+[det_flanco]
+A/det_flanco=21|./src/det_flanco.vhd|33|1*52753
+B/det_flanco=3*34402
+H/det_flanco=0*91403
+R=./src/det_flanco.vhd|24
+S/det_flanco=40|0|2*12576
+V=0*90956
+
+[divisor]
+A/divisor=A/Divisor 21|./src/divisor.vhd|14|1*20410
+B/divisor=3*27265
+H/divisor=0*40324
+R=./src/divisor.vhd|6
+S/divisor=S/Divisor 40|0|2*0
+V=0*41758
+
+[driver_7seg]
+A/driver=A/Driver 21|./src/show_cr.vhd|15|1*21845
+B/driver=3*28344
+H/driver=0*42452
+R=./src/show_cr.vhd|5
+S/driver_7seg=S/Driver_7seg 40|0|2*1044
+V=0*43900
+
+[pru_tec_ps2]
+A/pru_tec_ps2=A/pru_tec_PS2 24|.\src\pru_tec_ps2.bde|10000|1*54563
+H/pru_tec_ps2=0*92998
+R=./compile/pru_tec_ps2.vhd|25
+V=0*103180
+
+[teclado]
+A/teclado_arch=23|.\src\teclado.asf|10000|1*61443
+B/teclado_arch=3*35772
+H/teclado_arch=0*104699
+R=./compile/teclado.vhd|26
+S/teclado=S/Teclado 40|0|2*10046
+V=0*86639
+
+[~A]
+./compile/pru_tec_ps2.vhd~pru_tec_PS2=60|0*92532*92921
+./compile/pru_tec_ps2.vhd~pru_tec_PS2pru_tec_PS2=60|0*100370*102264
+./compile/teclado.vhd~teclado=60|0*85499*85878
+./compile/teclado.vhd~teclado_archteclado=60|0*105890*107184
+./src/deco.vhd~Deco=60|0*0*288
+./src/deco.vhd~DecoDeco=60|0*430*1006
+./src/det_flanco.vhd~det_flanco=60|0*90168*90428
+./src/det_flanco.vhd~det_flancodet_flanco=60|0*92074*92451
+./src/divisor.vhd~Divisor=60|0*40024*40259
+./src/divisor.vhd~DivisorDivisor=60|0*40995*41306
+./src/show_cr.vhd~DriverDriver_7seg=60|0*42626*42959
+./src/show_cr.vhd~Driver_7seg=60|0*42019*42383
+./src/tec_ps2.vhd~Teclado=60|0*15831*16293
+./src/tec_ps2.vhd~archTeclado=60|0*67956*75985
+ModifyID=109
+Version=73
+
+[~MFT]
+0=99|0prueba_tec_PS2.mgf|107184|71085
+1=14|1prueba_tec_PS2.mgf|61443|30296
+2=8|2prueba_tec_PS2.mgf|12576|5821
+3=10|3prueba_tec_PS2.mgf|35772|30041
+
+[~U]
+deco=Deco 11|0*1069|0*1220|3
+det_flanco=11|0*90499|0*90689|3
+divisor=Divisor 11|0*41378|0*41517|3
+driver_7seg=Driver_7seg 11|0*43034|0*43298|3
+pru_tec_ps2=11|0*102352|0*102643
+teclado=11|0*85947|0*86187|3
+

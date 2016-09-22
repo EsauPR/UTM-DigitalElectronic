@@ -1,0 +1,63 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=prueba_tec_PS2
+
+[Library]
+prueba_tec_PS2=.\prueba_tec_PS2.lib
+
+[$LibMap$]
+prueba_tec_PS2=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+HESPrepare=0
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=pru_tec_ps2|pru_tec_ps2|0  
+ShowHide=ShowTopLevel
+Selected=
+
+[Folders]
+Name3=Makefiles
+Directory3=e:\My_Designs\perifericos\prueba_tec_PS2\
+Extension3=mak
+
+[Files]
+/divisor.vhd=-1
+/show_cr.vhd=-1
+/deco.vhd=-1
+/pru_tec_ps2.bde=-1
+/teclado.asf=-1
+/det_flanco.vhd=-1
+
+[Files.Data]
+.\src\divisor.vhd=VHDL Source Code
+.\src\show_cr.vhd=VHDL Source Code
+.\src\deco.vhd=VHDL Source Code
+.\src\pru_tec_ps2.bde=Block Diagram
+.\src\teclado.asf=State Diagram
+.\src\det_flanco.vhd=VHDL Source Code
+.\compile\pru_tec_ps2.vhd=VHDL Source Code
+.\compile\teclado.vhd=VHDL Source Code
+
+
+
+[file_out:/pru_tec_ps2.bde]
+/\compile\pru_tec_ps2.vhd=-1
+[file_out:/teclado.asf]
+/\compile\teclado.vhd=-1

@@ -1,0 +1,47 @@
+acom $DSN/src/Mux_Dir.vhd
+# Compile...
+# File: e:\My_Designs\perifericos\Pru_RAM_VGA\src\Mux_Dir.vhd
+# Compile Entity "Mux_Dir"
+# Entity `Mux_Dir' has been skipped - no difference detected.
+# Compile Architecture "Mux_Dir" of Entity "Mux_Dir"
+# Error: COMP96_0078: Mux_Dir.vhd : (51, 18): Unknown identifier "conv_Integer".
+# Error: COMP96_0133: Mux_Dir.vhd : (51, 18): Cannot find object declaration.
+# Error: COMP96_0289: Mux_Dir.vhd : (51, 18): Prefix of index must be an array.
+# Error: COMP96_0071: Mux_Dir.vhd : (51, 12): Operator "*" is not defined for such operands.
+# Error: COMP96_0104: Mux_Dir.vhd : (51, 12): Undefined type of expression.
+# Error: COMP96_0078: Mux_Dir.vhd : (52, 13): Unknown identifier "conv_std_logic_vector".
+# Error: COMP96_0133: Mux_Dir.vhd : (52, 13): Cannot find object declaration.
+# Error: COMP96_0289: Mux_Dir.vhd : (52, 13): Prefix of index must be an array.
+# Error: COMP96_0104: Mux_Dir.vhd : (52, 13): Undefined type of expression.
+# Error: COMP96_0077: Mux_Dir.vhd : (52, 13): Assignment target incompatible with right side. Expected type "std_logic_vector".
+# Compile failure 10 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/Mux_Dir.vhd
+# Compile...
+# File: e:\My_Designs\perifericos\Pru_RAM_VGA\src\Mux_Dir.vhd
+# Compile Entity "Mux_Dir"
+# Compile Architecture "Mux_Dir" of Entity "Mux_Dir"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom $DSN/src/man_mem_ext.asf
+# Compile...
+# Generating e:\My_Designs\perifericos\Pru_RAM_VGA\compile\man_mem_ext.vhd from e:\My_Designs\perifericos\Pru_RAM_VGA\src\man_mem_ext.asf
+# Synthesis attributes will be generated for Synopsys FPGA Express
+# Warning: FSM2HDL_4028 man_mem_ext.asf : Attribute ENUM_ENCODING is not supported for Symbolic encoding.
+# Generating interface file...
+# HDL code generation completed. 0 error(s), 1 warning(s)
+# File: .\man_mem_ext.vhd
+# Compile Entity "man_mem_ext"
+# Entity `man_mem_ext' has been skipped - no difference detected.
+# Compile Architecture "man_mem_ext_arch" of Entity "man_mem_ext"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/Top_RAM_VGA.bde
+# Compile...
+# DRC: Checking file 'e:\My_Designs\perifericos\Pru_RAM_VGA\src\Top_RAM_VGA.bde'.
+# DRC: Warning: Top_RAM_VGA.bde - 0 error(s), 1 warning(s)
+# DRC: The results have been written to the log file. Double click on this line to view the log.
+# Generating e:\My_Designs\perifericos\Pru_RAM_VGA\compile\Top_RAM_VGA.vhd from e:\My_Designs\perifericos\Pru_RAM_VGA\src\Top_RAM_VGA.bde ...
+# Generation successful
+# File: .\Top_RAM_VGA.vhd
+# Compile Entity "Top_Img_Mem_Ext"
+# Entity `Top_Img_Mem_Ext' has been skipped - no difference detected.
+# Compile Architecture "Top_Img_Mem_Ext" of Entity "Top_Img_Mem_Ext"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

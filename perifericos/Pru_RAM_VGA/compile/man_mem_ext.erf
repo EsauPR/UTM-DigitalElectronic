@@ -1,0 +1,5 @@
+MESSAGE "Generating e:\My_Designs\perifericos\Pru_RAM_VGA\compile\man_mem_ext.vhd from e:\My_Designs\perifericos\Pru_RAM_VGA\src\man_mem_ext.asf"
+MESSAGE "Synthesis attributes will be generated for Synopsys FPGA Express"
+WARNING FSM2HDL_4028 "Attribute ENUM_ENCODING is not supported for Symbolic encoding." "e:\My_Designs\perifericos\Pru_RAM_VGA\src\man_mem_ext.asf" 5
+MESSAGE "Generating interface file..."
+MESSAGE "HDL code generation completed. 0 error(s), 1 warning(s)"

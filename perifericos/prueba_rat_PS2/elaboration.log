@@ -1,0 +1,22 @@
+elbread.dll ver. 1.0.5.325 Tue Jan 20 12:06:55 2015
+
+
+--------------------------------------------
+Entity       | Architecture | Library     
+--------------------------------------------
+pru_mouse    | pru_mouse    | prueba_rat_PS2
+mouse        | behavior     | prueba_rat_ps2
+div_frec     | div_frec     | prueba_rat_ps2
+driver_7seg  | driver       | prueba_rat_ps2
+deco         | deco         | prueba_rat_ps2
+--------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+numeric_std         | ieee
+-----------------------------

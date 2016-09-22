@@ -1,0 +1,9 @@
+73
+~E 1 "./src/gen_img.vhd" 7 gen_img
+~A 1 "./src/gen_img.vhd" 18 gen_img
+~E 1 "./src/DIV_FREC.vhd" 6 div_frec
+~A 1 "./src/DIV_FREC.vhd" 17 div_frec
+~E 1 "./compile/PRU_VGA1.vhd" 25 pru_vga1
+~A 1 "./compile/PRU_VGA1.vhd" 36 pru_vga1
+~E 1 "./src/vga.vhd" 9 vga
+~A 1 "./src/vga.vhd" 27 vga

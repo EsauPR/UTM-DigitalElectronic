@@ -1,0 +1,8 @@
+DF_VGA ENTITY
+filtro ENTITY
+vga ENTITY
+gen_img ENTITY
+div_frec ENTITY
+cnt_0_9 ENTITY
+df_c ENTITY
+cnt_0_5 ENTITY

@@ -1,0 +1,13 @@
+109
+~E 1 "./src/show_cr.vhd" 5 driver_7seg
+~A 1 "./src/show_cr.vhd" 15 driver
+~E 1 "./src/det_flanco.vhd" 24 det_flanco
+~A 1 "./src/det_flanco.vhd" 33 det_flanco
+~E 1 "./src/deco.vhd" 7 deco
+~A 1 "./src/deco.vhd" 14 deco
+~E 1 "./src/divisor.vhd" 6 divisor
+~A 1 "./src/divisor.vhd" 14 divisor
+~E 1 "./compile/pru_tec_ps2.vhd" 25 pru_tec_ps2
+~A 1 "./compile/pru_tec_ps2.vhd" 37 pru_tec_ps2
+~E 1 "./compile/teclado.vhd" 26 teclado
+~A 1 "./compile/teclado.vhd" 36 teclado_arch

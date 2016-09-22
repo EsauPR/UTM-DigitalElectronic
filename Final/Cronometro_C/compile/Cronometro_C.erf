@@ -1,0 +1,5 @@
+MESSAGE "File: .\TOP_C.vhd" 
+MESSAGE "Compile Entity "TOP_C"" 
+MESSAGE "Entity `TOP_C' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "TOP_C" of Entity "TOP_C"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

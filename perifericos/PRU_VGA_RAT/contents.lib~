@@ -1,0 +1,12 @@
+95
+~E 1 "./compile/pru_vga1.vhd" 25 pru_vga1
+~E 1 "./src/gen_img.vhd" 7 gen_img
+~A 1 "./src/gen_img.vhd" 20 gen_img
+~E 1 "./src/div_frec.vhd" 6 div_frec
+~A 1 "./src/div_frec.vhd" 17 div_frec
+~E 1 "./src/RATON.vhd" 6 mouse
+~A 1 "./src/RATON.vhd" 19 behavior
+~E 1 "./compile/Pru_VGA2.vhd" 25 pru_vga2
+~A 1 "./compile/Pru_VGA2.vhd" 40 pru_vga2
+~E 1 "./src/vga.vhd" 9 vga
+~A 1 "./src/vga.vhd" 27 vga

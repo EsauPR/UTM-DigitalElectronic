@@ -1,0 +1,5 @@
+MESSAGE "File: .\Top_RAM_VGA.vhd" 
+MESSAGE "Compile Entity "Top_Img_Mem_Ext"" 
+MESSAGE "Entity `Top_Img_Mem_Ext' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Top_Img_Mem_Ext" of Entity "Top_Img_Mem_Ext"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

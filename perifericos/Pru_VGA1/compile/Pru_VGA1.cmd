@@ -1,0 +1,1 @@
+-w -s "e:\My_Designs\perifericos\library.cfg"  -j "e:\My_Designs\perifericos\Pru_VGA1\projlib.cfg"  -d "e:\My_Designs\perifericos\Pru_VGA1\compile\"  -work Pru_VGA1 -dbg -e 100 "e:\My_Designs\perifericos\Pru_VGA1\src\gen_img.vhd" 

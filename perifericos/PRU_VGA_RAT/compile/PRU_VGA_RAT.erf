@@ -1,0 +1,5 @@
+MESSAGE "File: e:\My_Designs\perifericos\PRU_VGA_RAT\src\gen_img.vhd" 
+MESSAGE "Compile Entity "gen_img"" 
+MESSAGE "Entity `gen_img' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "gen_img" of Entity "gen_img"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

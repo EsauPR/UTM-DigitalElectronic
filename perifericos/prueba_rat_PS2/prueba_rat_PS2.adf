@@ -1,0 +1,56 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=prueba_rat_PS2
+
+[Library]
+prueba_rat_PS2=.\prueba_rat_PS2.lib
+
+[$LibMap$]
+prueba_rat_PS2=.
+Active_lib=
+
+[settings]
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=ONLY_IMPL
+HESPrepare=0
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/deco.vhd=-1
+/raton.vhd=-1
+/driver_7seg.vhd=-1
+/div_frec.vhd=-1
+/pru_mouse.bde=-1
+
+[Files.Data]
+.\src\deco.vhd=VHDL Source Code
+.\src\raton.vhd=VHDL Source Code
+.\src\driver_7seg.vhd=VHDL Source Code
+.\src\div_frec.vhd=VHDL Source Code
+.\src\pru_mouse.bde=Block Diagram
+.\compile\pru_mouse.vhd=VHDL Source Code
+
+[Folders]
+Name3=Makefiles
+Directory3=e:\My_Designs\perifericos\prueba_rat_PS2\
+Extension3=mak
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=pru_mouse|pru_mouse|0    
+ShowHide=ShowTopLevel
+Selected=
+
+[file_out:/pru_mouse.bde]
+/\compile\pru_mouse.vhd=-1

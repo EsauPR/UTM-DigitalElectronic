@@ -1,0 +1,75 @@
+[deco]
+A/deco=A/Deco 21|./src/deco.vhd|14|1*0
+B/deco=3*0
+H/deco=0*347
+R=./src/deco.vhd|7
+S/deco=S/Deco 40|0|2*5813
+V=0*1658
+
+[div_bus]
+B/div_bus=3*4470
+H/div_bus=0*27312
+R=./src/div_bus.vhd|5
+V=0*28582
+
+[div_frec]
+A/div_frec=A/DIV_FREC 21|./src/div_frec.vhd|18|1*16525
+B/div_frec=3*5360
+H/div_frec=0*31005
+R=./src/div_frec.vhd|6
+S/div_frec=S/DIV_FREC 40|0|2*6919
+V=0*32627
+
+[driver_7seg]
+A/driver=A/Driver 21|./src/driver_7seg.vhd|42|1*11607
+B/driver=3*1876
+H/driver=0*22799
+R=./src/driver_7seg.vhd|31
+S/driver_7seg=S/Driver_7seg 40|0|2*3029
+V=0*25045
+
+[mouse]
+A/behavior=21|./src/raton.vhd|19|1*78992
+B/behavior=3*29666
+H/behavior=0*114383
+R=./src/raton.vhd|6
+S/mouse=S/MOUSE 40|0|2*0
+V=0*48081
+
+[pru_mouse]
+A/pru_mouse=24|.\src\pru_mouse.bde|10000|1*58614
+B/pru_mouse=3*28469
+H/pru_mouse=0*88824
+R=./compile/pru_mouse.vhd|25
+V=0*19750
+
+[~A]
+./compile/pru_mouse.vhd~pru_mouse=60|0*2708*3195
+./compile/pru_mouse.vhd~pru_mousepru_mouse=60|0*98096*100661
+./src/deco.vhd~Deco=60|0*0*288
+./src/deco.vhd~DecoDeco=60|0*430*1006
+./src/div_bus.vhd~div_Bus=60|0*26913*27247
+./src/div_bus.vhd~div_Busdiv_Bus=60|0*27401*27628
+./src/div_frec.vhd~DIV_FREC=60|0*30615*30938
+./src/div_frec.vhd~DIV_FRECDIV_FREC=60|0*31654*32049
+./src/driver_7seg.vhd~DriverDriver_7seg=60|0*23444*23975
+./src/driver_7seg.vhd~Driver_7seg=60|0*22340*22726
+./src/raton.vhd~MOUSE=60|0*33070*33510
+./src/raton.vhd~behaviorMOUSE=60|0*121605*127954
+ModifyID=90
+Version=73
+
+[~MFT]
+0=83|0prueba_rat_PS2.mgf|127954|81724
+1=15|1prueba_rat_PS2.mgf|78992|34210
+2=3|2prueba_rat_PS2.mgf|6919|0
+3=13|3prueba_rat_PS2.mgf|29666|21557
+
+[~U]
+deco=Deco 11|0*1069|0*1220|3
+div_bus=div_Bus 11|0*27700|0*27937
+div_frec=DIV_FREC 11|0*32124|0*32313|3
+driver_7seg=Driver_7seg 11|0*24054|0*24386|3
+mouse=MOUSE 11|0*47197|0*47490|3
+pru_mouse=11|0*18578|0*18953
+

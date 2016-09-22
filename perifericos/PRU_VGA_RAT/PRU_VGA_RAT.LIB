@@ -1,0 +1,74 @@
+[div_frec]
+A/div_frec=A/DIV_FREC 21|./src/div_frec.vhd|17|1*12663
+B/div_frec=3*7494
+H/div_frec=0*24419
+R=./src/div_frec.vhd|6
+S/div_frec=S/DIV_FREC 40|0|2*5501
+V=0*25485
+
+[gen_img]
+A/gen_img=21|./src/gen_img.vhd|20|1*60495
+B/gen_img=3*32994
+H/gen_img=0*98243
+R=./src/gen_img.vhd|7
+S/gen_img=40|0|2*6862
+V=0*46231
+
+[mouse]
+A/behavior=21|./src/RATON.vhd|19|1*33610
+B/behavior=3*11437
+H/behavior=0*66552
+R=./src/RATON.vhd|6
+S/mouse=S/MOUSE 40|0|2*10055
+V=0*64957
+
+[pru_vga1]
+H/pru_vga1=0*35116
+R=./compile/pru_vga1.vhd|25
+V=0*22634
+
+[pru_vga2]
+A/pru_vga2=A/Pru_VGA2 24|.\src\Pru_VGA2.bde|10000|1*46964
+H/pru_vga2=0*81295
+R=./compile/Pru_VGA2.vhd|25
+V=0*95390
+
+[vga]
+A/vga=21|./src/vga.vhd|27|1*0
+B/vga=3*0
+H/vga=0*561
+R=./src/vga.vhd|9
+S/vga=40|0|2*2101
+V=0*5692
+
+[~A]
+./compile/Pru_VGA2.vhd~Pru_VGA2=60|0*80784*81224
+./compile/Pru_VGA2.vhd~Pru_VGA2Pru_VGA2=60|0*92290*94371
+./compile/pru_vga1.vhd~PRU_VGA1=60|0*12201*12541
+./compile/pru_vga1.vhd~PRU_VGA1PRU_VGA1=60|0*33625*35037
+./compile/pru_vga2.vhd~PRU_VGA1PRU_VGA1=60|0*42903*44315
+./src/RATON.vhd~MOUSE=60|0*49946*50386
+./src/RATON.vhd~behaviorMOUSE=60|0*73774*80109
+./src/div_frec.vhd~DIV_FREC=60|0*24056*24352
+./src/div_frec.vhd~DIV_FRECDIV_FREC=60|0*24637*24957
+./src/gen_img.vhd~gen_img=60|0*44394*44881
+./src/gen_img.vhd~gen_imggen_img=60|0*98332*98689
+./src/vga.vhd~vga=60|0*0*504
+./src/vga.vhd~vgavga=60|0*3153*4478
+ModifyID=113
+Version=73
+
+[~MFT]
+0=103|0PRU_VGA_RAT.mgf|98689|36995
+1=21|1PRU_VGA_RAT.mgf|60495|28346
+2=5|2PRU_VGA_RAT.mgf|10055|2101
+3=15|3PRU_VGA_RAT.mgf|32994|3998
+
+[~U]
+div_frec=DIV_FREC 11|0*25032|0*25196|3
+gen_img=11|0*44946|0*45274|3
+mouse=MOUSE 11|0*64073|0*64366|3
+pru_vga1=PRU_VGA1 11|0*21890|0*22138
+pru_vga2=Pru_VGA2 11|0*94450|0*94794
+vga=11|0*4538|0*4875|3
+

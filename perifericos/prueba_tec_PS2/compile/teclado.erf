@@ -1,0 +1,5 @@
+MESSAGE "Generating E:\My_Designs\perifericos\prueba_tec_PS2\compile\teclado.vhd from E:\My_Designs\perifericos\prueba_tec_PS2\src\teclado.asf"
+MESSAGE "Synthesis attributes will be generated for Synopsys FPGA Express"
+WARNING FSM2HDL_4028 "Attribute ENUM_ENCODING is not supported for Symbolic encoding." "E:\My_Designs\perifericos\prueba_tec_PS2\src\teclado.asf" 5
+MESSAGE "Generating interface file..."
+MESSAGE "HDL code generation completed. 0 error(s), 1 warning(s)"

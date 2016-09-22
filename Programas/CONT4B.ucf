@@ -1,0 +1,24 @@
+NET "clk"   LOC = "B8";
+NET "boton" LOC = "H13";
+NET "rst" LOC = "B18";
+
+NET "habs<0>" LOC = "F17";
+NET "habs<1>" LOC = "H17";
+NET "habs<2>" LOC = "C18";
+NET "habs<3>" LOC = "F15";
+
+NET "s<0>" LOC = "H14";
+NET "s<1>" LOC = "J17";
+NET "s<2>" LOC = "G14";
+NET "s<3>" LOC = "D16";
+NET "s<4>" LOC = "D17";
+NET "s<5>" LOC = "F18";
+NET "s<6>" LOC = "L18";
+NET "s<7>" LOC = "C17";
+
+NET "up_down" LOC = "G18";
+
+NET "leds<0>" LOC = "J14";
+NET "leds<1>" LOC = "J15";
+NET "leds<2>" LOC = "K15";
+NET "leds<3>" LOC = "K14";

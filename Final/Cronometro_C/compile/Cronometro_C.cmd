@@ -1,0 +1,1 @@
+-w -s "C:\My_Designs\Cronometro_C\library.cfg"  -j "C:\My_Designs\Cronometro_C\projlib.cfg"  -d "C:\My_Designs\Cronometro_C\compile\"  -work Cronometro_C -dbg -e 100 "C:\My_Designs\Cronometro_C\compile\TOP_C.vhd" 

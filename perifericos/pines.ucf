@@ -1,0 +1,36 @@
+
+# Entradas
+
+NET  "clk_ext"  LOC = "B8";
+NET  "rst"  LOC = "B18";
+
+NET "color<0>" LOC = "G18";
+NET "color<1>" LOC = "H18";
+NET "color<2>" LOC = "K18";
+NET "color<3>" LOC = "K17";
+NET "color<4>" LOC = "L14";
+NET "color<5>" LOC = "L13";
+NET "color<6>" LOC = "N17";
+NET "color<7>" LOC = "R17";
+
+# Lineas Bidireccionales
+
+NET  "ps2C" LOC = "R12";
+NET  "ps2D" LOC = "P11";
+
+# Salidas
+
+NET  "lbot" LOC = "J14";
+NET  "rbot" LOC = "J15";
+
+NET  "HS" LOC = "T4";
+NET  "VS" LOC = "U3";
+
+NET  "RGB_SAL<0>"  LOC = "R9";
+NET  "RGB_SAL<1>"  LOC = "T8";
+NET  "RGB_SAL<2>"  LOC = "R8";
+NET  "RGB_SAL<3>"  LOC = "N8";
+NET  "RGB_SAL<4>"  LOC = "P8";
+NET  "RGB_SAL<5>"  LOC = "P6";
+NET  "RGB_SAL<6>"  LOC = "U5";
+NET  "RGB_SAL<7>"  LOC = "U4";

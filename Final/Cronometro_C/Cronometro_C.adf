@@ -1,0 +1,72 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Cronometro_C
+
+[Library]
+Cronometro_C=.\Cronometro_C.lib
+
+[$LibMap$]
+Cronometro_C=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+HESPrepare=0
+FLOWTOOLS=ONLY_IMPL
+CSYNTH_TOOL=<none>
+Celoxica=0
+UseCeloxica=0
+C_SERVER_SIM=
+ON_SERVERFARM_SIM=0
+C_SERVER_SYNTH=
+ON_SERVERFARM_SYNTH=0
+C_SERVER_IMPL=
+ON_SERVERFARM_IMPL=0
+
+[IMPLEMENTATION]
+UCF=
+FAMILY=
+DEVICE=
+SPEED=
+
+[Files]
+/vga.vhd=-1
+/cnt_0_5.vhd=-1
+/cnt_0_9.vhd=-1
+/df_c.vhd=-1
+/DF_VGA.vhd=-1
+/div_frec.vhd=-1
+/filtro.vhd=-1
+/gen_img.vhd=-1
+/TOP_C.bde=-1
+
+[Files.Data]
+.\src\vga.vhd=VHDL Source Code
+.\src\cnt_0_5.vhd=VHDL Source Code
+.\src\cnt_0_9.vhd=VHDL Source Code
+.\src\df_c.vhd=VHDL Source Code
+.\src\DF_VGA.vhd=VHDL Source Code
+.\src\div_frec.vhd=VHDL Source Code
+.\src\filtro.vhd=VHDL Source Code
+.\src\gen_img.vhd=VHDL Source Code
+.\src\TOP_C.bde=Block Diagram
+.\compile\TOP_C.vhd=VHDL Source Code
+
+[SYNTHESIS]
+FAMILY=
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+[file_out:/TOP_C.bde]
+/\compile\TOP_C.vhd=-1

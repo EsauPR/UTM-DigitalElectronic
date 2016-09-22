@@ -1,0 +1,23 @@
+elbread.dll ver. 1.0.5.325 Mon Jan 19 17:37:54 2015
+
+
+--------------------------------------------
+Entity       | Architecture | Library     
+--------------------------------------------
+pru_tec_ps2  | pru_tec_ps2  | prueba_tec_PS2
+teclado      | teclado_arch | prueba_tec_ps2
+deco         | deco         | prueba_tec_ps2
+driver_7seg  | driver       | prueba_tec_ps2
+divisor      | divisor      | prueba_tec_ps2
+det_flanco   | det_flanco   | prueba_tec_ps2
+--------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+numeric_std         | ieee
+-----------------------------

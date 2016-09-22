@@ -1,0 +1,99 @@
+[contador]
+A/contador=21|./src/contador.vhd|30|1*34750
+B/contador=3*23039
+H/contador=0*55714
+R=./src/contador.vhd|21
+S/contador=40|0|2*20503
+V=0*54872
+
+[control_z]
+A/control_z=A/control_Z 21|./src/control_Z.vhd|41|1*5856
+B/control_z=3*7439
+H/control_z=0*10336
+R=./src/control_Z.vhd|30
+S/control_z=S/control_Z 40|0|2*0
+V=0*11470
+
+[div_frec]
+A/div_frec=A/DIV_FREC 21|./src/DIV_FREC.vhd|17|1*44184
+B/div_frec=3*27975
+H/div_frec=0*65126
+R=./src/DIV_FREC.vhd|6
+S/div_frec=40|0|2*27210
+V=0*66198
+
+[man_mem_ext]
+A/man_mem_ext_arch=23|.\src\man_mem_ext.asf|10000|1*60271
+B/man_mem_ext_arch=3*33317
+H/man_mem_ext_arch=0*92766
+R=./compile/man_mem_ext.vhd|26
+S/man_mem_ext=40|0|2*4990
+V=0*18940
+
+[mux_dir]
+A/mux_dir=A/Mux_Dir 21|./src/Mux_Dir.vhd|43|1*58195
+B/mux_dir=3*31510
+H/mux_dir=0*89095
+R=./src/Mux_Dir.vhd|31
+S/mux_dir=S/Mux_Dir 40|0|2*23694
+V=0*90635
+
+[sel_color]
+A/sel_color=A/sel_Color 21|./src/sel_Color.vhd|39|1*42255
+B/sel_color=3*26094
+H/sel_color=0*63969
+R=./src/sel_Color.vhd|30
+S/sel_color=S/sel_Color 40|0|2*26141
+V=0*62909
+
+[top_img_mem_ext]
+A/top_img_mem_ext=A/Top_Img_Mem_Ext 24|.\src\Top_RAM_VGA.bde|10000|1*62388
+B/top_img_mem_ext=3*37153
+H/top_img_mem_ext=0*94237
+R=./compile/Top_RAM_VGA.vhd|25
+V=0*85135
+
+[vga]
+A/vga=21|./src/vga.vhd|26|1*28430
+B/vga=3*16504
+H/vga=0*48636
+R=./src/vga.vhd|9
+S/vga=40|0|2*14905
+V=0*42495
+
+[~A]
+./compile/Top_RAM_VGA.vhd~Top_Img_Mem_Ext=60|0*66551*67205
+./compile/Top_RAM_VGA.vhd~Top_Img_Mem_ExtTop_Img_Mem_Ext=60|0*107454*110432
+./compile/man_mem_ext.vhd~man_mem_ext=60|0*16300*16712
+./compile/man_mem_ext.vhd~man_mem_ext_archman_mem_ext=60|0*93082*94144
+./src/DIV_FREC.vhd~DIV_FREC=60|0*64763*65059
+./src/DIV_FREC.vhd~DIV_FRECDIV_FREC=60|0*65344*65670
+./src/Mux_Dir.vhd~Mux_Dir=60|0*88601*89030
+./src/Mux_Dir.vhd~Mux_DirMux_Dir=60|0*89184*89565
+./src/contador.vhd~contador=60|0*52784*53087
+./src/contador.vhd~contadorcontador=60|0*56367*56798
+./src/control_Z.vhd~control_Z=60|0*9957*10267
+./src/control_Z.vhd~control_Zcontrol_Z=60|0*10429*10622
+./src/sel_Color.vhd~sel_Color=60|0*61226*61472
+./src/sel_Color.vhd~sel_Colorsel_Color=60|0*64062*64685
+./src/vga.vhd~vga=60|0*40986*41443
+./src/vga.vhd~vgavga=60|0*51310*52724
+ModifyID=204
+Version=73
+
+[~MFT]
+0=195|0Pru_RAM_VGA.mgf|110432|62584
+1=28|1Pru_RAM_VGA.mgf|62388|20902
+2=18|2Pru_RAM_VGA.mgf|27210|13735
+3=31|3Pru_RAM_VGA.mgf|37153|19566
+
+[~U]
+contador=11|0*54298|0*54491|3
+control_z=control_Z 11|0*10700|0*10920|3
+div_frec=11|0*65745|0*65909|3
+man_mem_ext=11|0*18260|0*18537|3
+mux_dir=11|0*89637|0*89900|3
+sel_color=sel_Color 11|0*62335|0*62502|3
+top_img_mem_ext=11|0*83577|0*84096
+vga=11|0*41500|0*41801|3
+
